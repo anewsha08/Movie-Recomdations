@@ -1,4 +1,5 @@
 This script demonstrates how to clean, merge, analyze, and visualize movie data using Python and Pandas, focusing on calculating a custom rating metric and displaying the results graphically. 
+
 Brief Explaination of the code:
 Data Loading and Preparation:
 It loads two CSV files (tmdb_5000_movies.csv and tmdb_5000_credits.csv) using Pandas into movies_df and credits_df.
